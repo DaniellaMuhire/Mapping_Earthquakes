@@ -8,4 +8,5 @@ We do so by traversing and retrieving the earthquake data using JavaScript, the 
 
 [Mapping_Earthquakes](https://daniellamuhire.github.io/Mapping_Earthquakes/)
 
-![Uploading Screen Shot 2022-10-27 at 6.09.26 PM.png…]()
+<img width="1427" alt="Screen Shot 2022-10-27 at 6 11 42 PM" src="https://user-images.githubusercontent.com/77806210/198420368-16af4e92-f635-48bc-91ba-5a355df392e6.png">
+
